@@ -23,10 +23,10 @@ from .models import twitter_data
 # nltk.download('opinion_lexicon')
 
 
-consumer_key = "ZpuyQUWyiM09NQwLK9MTNfQHt"
-consumer_secret = "IQ6HWO4OsrxBNsXJILPw26fgzKHzuthKQvpuPo55xFXfdmYXpG"
-access_token = "2937336096-DrpKKvHQxG6ruCb78EtiStQF6XkL3KMtX6nLzX6"
-access_token_secret = "KKGedqXnm9VtuXFW4tMRMRKoiHUx8Ibd99yLlMZyIWhzX"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 class extractData():
 
